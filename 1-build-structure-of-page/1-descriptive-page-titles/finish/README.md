@@ -9,7 +9,7 @@ A page title is one way a user can orientate themselves to a website and can be 
 
 ### Code
 ```html
-<title>ACME Fashion House</title>
+<title>Home|ACME Fashion House</title>
 ```
 
 ## Live Demo
